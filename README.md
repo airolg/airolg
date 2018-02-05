@@ -1,4 +1,4 @@
 # airolg
-.. image:: logo-manticore-h.svg
+.. image:: manticore-tees-logo-text.png
     :alt: Manticore
     
